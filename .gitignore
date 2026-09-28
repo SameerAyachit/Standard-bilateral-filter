@@ -1,0 +1,19 @@
+# Vivado-related Ignore
+*.jou
+*.log
+*.str
+*.dmp
+*backup.jou
+*backup.log
+
+# Vivado generated directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Other ignored files
+dfx_runtime.txt
+*.zip
